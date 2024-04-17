@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "483184744200",
+    "project_id": "pushnotificationtestandr-efa03",
+    "storage_bucket": "pushnotificationtestandr-efa03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483184744200:android:82802322dfc86f3a05febd",
+        "android_client_info": {
+          "package_name": "tech.milktea.pushnotificationtestandroid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv3w36bQkWP3ZnkB7LZ7SHPNxZBzJI16k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
